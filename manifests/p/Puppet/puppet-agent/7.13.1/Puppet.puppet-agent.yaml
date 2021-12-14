@@ -1,8 +1,9 @@
-# Automatically updated by the winget bot at 2021/Dec/14
+# Created using wingetcreate 0.4.4.1
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.0.0.schema.json
 
-PackageIdentifier: SoftPerfect.SoftPerfectNetworkScanner
-PackageVersion: 8.1.2
+PackageIdentifier: Puppet.puppet-agent
+PackageVersion: 7.13.1
 DefaultLocale: en-US
 ManifestType: version
 ManifestVersion: 1.0.0
+
